@@ -1,5 +1,5 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Changelog for package pr2_msgs
+Changelog for package computer_status_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1.13.0 (2020-08-11)

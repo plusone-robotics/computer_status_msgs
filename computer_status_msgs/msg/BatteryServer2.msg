@@ -11,4 +11,4 @@ int32 average_charge     # in percent
 string message           # message from the ocean server
 time last_controller_update # last time a battery status flag was updated
 # for each battery
-pr2_msgs/BatteryState2[] battery
+computer_status_msgs/BatteryState2[] battery

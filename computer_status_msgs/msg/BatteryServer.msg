@@ -1,4 +1,4 @@
-# DEPRECATED. Use pr2_msgs/BatteryServer2 instead.
+# DEPRECATED. Use computer_status_msgs/BatteryServer2 instead.
 Header header
 uint32 MAX_BAT_COUNT=4
 uint32 MAX_BAT_REG=48
@@ -18,4 +18,4 @@ uint16 powerPresent
 uint16 powerNG
 uint16 inhibited
 # for each battery
-pr2_msgs/BatteryState[] battery
+computer_status_msgs/BatteryState[] battery

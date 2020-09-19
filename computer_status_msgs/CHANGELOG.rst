@@ -2,9 +2,10 @@
 Changelog for package computer_status_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-2.0.0 (2020-09-18)
+2.0.0 (2020-09-20)
 ------------------
 * Moved out of PR2 repo family to a new repo.
+* 1) Remove outdated msgs, 2) Remove irrelevant msg and a .srv `#1 <https://github.com/130s/computer_status_msgs/issues/1>` based on the feedback https://github.com/PR2/pr2_common/issues/286#issuecomment-695975839
 * Contributors: Isaac I.Y. Saito
     
 1.13.0 (2020-08-11)

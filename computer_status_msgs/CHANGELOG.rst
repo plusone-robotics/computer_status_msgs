@@ -2,6 +2,11 @@
 Changelog for package computer_status_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.0.0 (2020-09-18)
+------------------
+* Moved out of PR2 repo family to a new repo.
+* Contributors: Isaac I.Y. Saito
+    
 1.13.0 (2020-08-11)
 -------------------
 

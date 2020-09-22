@@ -10,8 +10,6 @@ add_message_files(
   BatteryState.msg
   DashboardState.msg
   GPUStatus.msg
-  LaserScannerSignal.msg
-  LaserTrajCmd.msg
   PeriodicCmd.msg
   PowerBoardState.msg
   PowerState.msg
@@ -20,7 +18,6 @@ add_message_files(
 
 add_service_files(
   FILES
-  SetLaserTrajCmd.srv
   SetPeriodicCmd.srv
 )
 

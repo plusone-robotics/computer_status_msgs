@@ -6,9 +6,7 @@ add_message_files(
   FILES
   AccelerometerState.msg
   AccessPoint.msg
-  BatteryServer2.msg
   BatteryServer.msg
-  BatteryState2.msg
   BatteryState.msg
   DashboardState.msg
   GPUStatus.msg

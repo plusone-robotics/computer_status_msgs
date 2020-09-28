@@ -4,7 +4,6 @@ find_package(catkin REQUIRED COMPONENTS message_generation std_msgs geometry_msg
 
 add_message_files(
   FILES
-  AccelerometerState.msg
   AccessPoint.msg
   BatteryServer.msg
   BatteryState.msg
@@ -13,7 +12,6 @@ add_message_files(
   PeriodicCmd.msg
   PowerBoardState.msg
   PowerState.msg
-  PressureState.msg
 )
 
 add_service_files(

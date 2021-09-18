@@ -4,21 +4,8 @@ find_package(catkin REQUIRED COMPONENTS message_generation std_msgs geometry_msg
 
 add_message_files(
   FILES
-  AccelerometerState.msg
   AccessPoint.msg
-  BatteryServer.msg
-  BatteryState.msg
-  DashboardState.msg
   GPUStatus.msg
-  PeriodicCmd.msg
-  PowerBoardState.msg
-  PowerState.msg
-  PressureState.msg
-)
-
-add_service_files(
-  FILES
-  SetPeriodicCmd.srv
 )
 
 generate_messages(DEPENDENCIES geometry_msgs std_msgs)

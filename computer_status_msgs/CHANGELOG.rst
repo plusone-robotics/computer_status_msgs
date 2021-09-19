@@ -2,6 +2,10 @@
 Changelog for package computer_status_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.1.0 (2021-09-18)
+------------------
+* [fix] Remove invalid, PR2 specific msgs `#4 <https://github.com/plusone-robotics/computer_status_msgs/issues/4>`_
+
 2.0.0 (2020-09-20)
 ------------------
 * Moved out of PR2 repo family to a new repo.
